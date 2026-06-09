@@ -8,8 +8,8 @@ const trackList = document.getElementById('track-list');
 const cdSpinner = document.querySelector('.cd-spinner');
 
 const playlist = [
-  { title: 'Aklımda Biri Var', src: 'scripts/songs/Aklımda Biri Var.mp3' },
-  { title: 'Earth Angel (Will You Be Mine)', src: 'scripts/songs/Earth Angel (Will You Be Mine) - From “Back To The Future” Soundtrack.mp3' },
+  { title: 'Aklımda Biri Var', src: 'scripts/songs/song1.mp3' },
+  { title: 'Earth Angel (Will You Be Mine)', src: 'scripts/songs/song2.mp3' },
   { title: 'Her Majesty', src: 'scripts/songs/Her Majesty - Remastered 2009.mp3' },
   { title: 'Hula Girl', src: 'scripts/songs/Hula Girl.mp3' },
   { title: 'Kocham Cię, Kochanie Moje', src: 'scripts/songs/Kocham Cię, Kochanie Moje.mp3' },
