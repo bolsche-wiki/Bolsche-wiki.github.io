@@ -12,7 +12,7 @@ const playlist = [
   { title: 'Earth Angel (Will You Be Mine)', src: 'scripts/songs/song2.mp3' },
   { title: 'Her Majesty', src: 'scripts/songs/song3.mp3' },
   { title: 'Hula Girl', src: 'scripts/songs/song4.mp3' },
-  { title: 'Kocham Cię, Kochanie Moje', src: 'scripts/songs/song5.mp3' },
+  { title: 'O Pani!', src: 'scripts/songs/song5.mp3' },
   { title: 'Little Darlin\' (We\'ll Be Kissing)', src: 'scripts/songs/song6.mp3' },
   { title: 'Talkabout', src: 'scripts/songs/song7.mp3' },
   { title: 'Perfect Defect', src: 'scripts/songs/song8.mp3' }
