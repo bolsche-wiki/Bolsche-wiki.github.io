@@ -10,12 +10,12 @@ const cdSpinner = document.querySelector('.cd-spinner');
 const playlist = [
   { title: 'Aklımda Biri Var', src: 'scripts/songs/song1.mp3' },
   { title: 'Earth Angel (Will You Be Mine)', src: 'scripts/songs/song2.mp3' },
-  { title: 'Her Majesty', src: 'scripts/songs/Her Majesty - Remastered 2009.mp3' },
-  { title: 'Hula Girl', src: 'scripts/songs/Hula Girl.mp3' },
-  { title: 'Kocham Cię, Kochanie Moje', src: 'scripts/songs/Kocham Cię, Kochanie Moje.mp3' },
-  { title: 'Little Darlin\' (We\'ll Be Kissing)', src: 'scripts/songs/Little Darlin\' (We\'ll Be Kissing).mp3' },
-  { title: 'Talkabout', src: 'scripts/songs/Talkabout.mp3' },
-  { title: 'Perfect Defect', src: 'scripts/songs/Perfect Defect N.E.R.D.mp3' }
+  { title: 'Her Majesty', src: 'scripts/songs/song3.mp3' },
+  { title: 'Hula Girl', src: 'scripts/songs/song4.mp3' },
+  { title: 'Kocham Cię, Kochanie Moje', src: 'scripts/songs/song5.mp3' },
+  { title: 'Little Darlin\' (We\'ll Be Kissing)', src: 'scripts/songs/song6.mp3' },
+  { title: 'Talkabout', src: 'scripts/songs/song7.mp3' },
+  { title: 'Perfect Defect', src: 'scripts/songs/song8.mp3' }
 
 ];
 
